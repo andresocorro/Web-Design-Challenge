@@ -70,12 +70,12 @@ body{
     margin: 0px 0px  0px 40px;
 }
 
-.divtop{
+.navtop{
     background-color: white;
     z-index: 2
 }
 
-.divbdy{
+.navbody{
     background-color: white;
     z-index:1;
 }
@@ -86,7 +86,7 @@ body{
     z-index:1;
 }
 
-.divbtm{
+/* .divbtm{
     width:100%;
     bottom:0;
     background-color:gray;
@@ -97,4 +97,4 @@ body{
     padding: 5px;
     margin: 0px;
 
-}
+} */
